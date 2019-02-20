@@ -1,0 +1,3 @@
+rootProject.name = 'ParkingBD'
+
+include ':app'
